@@ -1,9 +1,5 @@
-## Michelle O'Connell
-
-# Hi there! 👋 I'm Michelle
-
-## About Me
-Hey there! I’m Michelle — a full-stack web developer who started out as a visual artist and teacher. After spending over a decade creating paintings, installations, and teaching ESL around the world (including several years living in China), I made the jump into coding. Now I build web and mobile apps using JavaScript, Node, and React — combining creativity with tech to solve real problems.
+## 🎨 About Me
+Hey! I’m Michelle — a full-stack web developer who started out as a visual artist and teacher. After spending over a decade creating paintings, installations, and teaching ESL around the world, I made the jump into coding. Now I build web and mobile apps — combining creativity with tech to solve real problems.
 
 I love crafting clean, user-friendly experiences and translating abstract ideas into functional, beautiful software. When I’m not coding, you’ll find me hiking, skiing, or soaking up live music (Denver is great for that!). I’m always up for collaboration, sharing ideas, or chatting about art, tech, or whatever’s inspiring me that week.
 
@@ -13,13 +9,12 @@ Thanks for stopping by — feel free to explore my projects and reach out if you
 
 ## 🔭 What I’m Working On
 
-- **Billy BINGO** — A fan-driven concert BINGO app inspired by Billy Strings, featuring a React frontend and an Express backend that pulls song data from historical setlists.
+**Billy BINGO** — A fan-driven concert BINGO app inspired by Billy Strings, featuring a React frontend and an Express backend that pulls song data from historical setlists. 
 
----
-
-## 🛠️ What I Build
-
-I create full-stack web applications that solve real problems and bring people together. Whether crafting responsive interfaces or building secure backend APIs, I focus on clean code and great user experiences. I enjoy blending art and tech to build apps that are both functional and fun.
+In-progress: 
+- **Game Features:** Implement real-time marking of played songs and automatic BINGO detection/notifications.
+- **User Archive:** Allow fans to save and revisit past BINGO cards as digital memorabilia.
+- **Social Sharing:** Enable users to compare cards and share BINGO wins with friends.
 
 ---
 
@@ -95,16 +90,20 @@ _A clean and simple to-do list built with object-oriented JavaScript._
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 
 - GitHub: [michelleoco](https://github.com/michelleoco)  
-- Email: [michelle.oco@gmail.com] (michelle.oco@gmail.com)   
+- Email: [Email] (michelle.oco@gmail.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/michelleoco)    
 
 ---
 
-## ⚡ Fun Fact
-
-I have a pittie mix named Gravy!
+## Fun Facts & Hobbies
+- 🎨 Multidisciplinary visual artist and documentary colorist: [Website](https://michelleoco.com/) 
+- 🌏 Lived and taught ESL in China for 4 years
+- 🎶 Bluegrass music lover
+- 🤿 Scuba diver
+- 🐶 Owner of a pittie mix named Gravy Train
 
 ---
 
@@ -113,42 +112,14 @@ I have a pittie mix named Gravy!
 
 ---
 
-Thank you for stopping by — feel free to explore my projects, star the repos, or reach out!
-
----
-
 *This README is updated regularly as I continue building new things.*
 
 
 
 
-
-## Fun Facts & Hobbies
-- 🎨 Former multidisciplinary visual artist and colorist  
-- 🌏 Lived and taught ESL in China for 4 years  
-- ⛷️ Love skiing, hiking, and live music  
-- ☕ Always on the hunt for great coffee spots  
-
-## Contact Me
-- 📫 michelle.oconnell@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/michelleoco)  
-- 🐦 [Twitter](https://twitter.com/michelleoco)  
+ 
 
 
 
-<!--
-Here are some ideas to get you started:
-
- a quick overview of yourself
- your skills
- and the projects you’re working on.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
