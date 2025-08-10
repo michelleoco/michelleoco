@@ -93,7 +93,7 @@ _A clean and simple to-do list built with object-oriented JavaScript._
 ## 📫 Contact Me
 
 - GitHub: [michelleoco](https://github.com/michelleoco)  
-- Email: [Email] (michelle.oco@gmail.com)
+- Email: [michelle.oco@gmail.com](mailto:michelle.oco@gmail.com)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/michelleoco)    
 
 ---
